@@ -1,0 +1,35 @@
+_repo: Munster_44046
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Williams, Alexander
+    birthdate: 1846
+    deathdate: 1930
+    gutenberg_agent_id: '42019'
+    url: http://www.gutenberg.org/2009/agents/42019
+covers:
+- cover_type: archival
+  image_path: 44046-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gwynn, Stephen Lucius
+    birthdate: 1864
+    deathdate: 1950
+    gutenberg_agent_id: '2451'
+    url: http://www.gutenberg.org/2009/agents/2451
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Lucius_Gwynn
+description: ''
+gutenberg_issued: '2013-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44046'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Beautiful Ireland.
+subjects:
+- !lcsh 'Munster (Ireland) -- Description and travel'
+- !lcc 'DA'
+title: Munster
+url: http://www.gutenberg.org/ebooks/44046
